@@ -42,17 +42,44 @@ I believe in **learning by building projects, analyzing real datasets, and impro
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" />
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" />
+</a>
 
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+</a>
 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/sql/ssms/" target="_blank">
 <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="40"/>
+</a>
 
 </p>
+
 ##🌐 Socials
 
 <p align="left">
