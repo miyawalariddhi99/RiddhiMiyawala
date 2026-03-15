@@ -80,7 +80,7 @@ I believe in **learning by building projects, analyzing real datasets, and impro
 
 </p>
 
-##🌐 Socials
+🌐 Socials
 
 <p align="left">
 
