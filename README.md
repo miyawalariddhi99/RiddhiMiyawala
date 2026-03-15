@@ -12,12 +12,10 @@ My focus is on becoming **industry-ready in Data Analytics** by combining:
 
 I believe in **learning by building projects, analyzing real datasets, and improving every day.**
 
----
 
 🌍 I'm based in 📍 Surat, Gujarat, India  
 ✉️ You can contact me at: riddhimiyawala99@gmail.com  
 
----
 
 ## 🧠 I'm currently learning
 
@@ -27,7 +25,6 @@ I believe in **learning by building projects, analyzing real datasets, and impro
 - Data Cleaning & Exploratory Data Analysis  
 - Statistics for Data Analytics  
 
----
 
 ## 🛠 Technical Skills
 
@@ -39,16 +36,23 @@ I believe in **learning by building projects, analyzing real datasets, and impro
 
 **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code, ChatGPT  
 
----
+
 
 ## 💻 Tech Stack
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
+
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="40"/>
+
 </p>
-
----
-
 ## 🌐 Socials
 
 <p align="left">
@@ -66,7 +70,5 @@ I believe in **learning by building projects, analyzing real datasets, and impro
 </a>
 
 </p>
-
----
 
 ⭐ Always learning, building, and improving my data analytics journey.
