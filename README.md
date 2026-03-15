@@ -1,4 +1,4 @@
-# Hi 👋 Riddhi here,
+# Hi 👋 Riddhi Miyawala here,
 
 📊 MSc Data Science Student | Aspiring Data Analyst | Turning Data into Insights 🚀
 
@@ -53,7 +53,7 @@ I believe in **learning by building projects, analyzing real datasets, and impro
 <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="40"/>
 
 </p>
-## 🌐 Socials
+##🌐 Socials
 
 <p align="left">
 
