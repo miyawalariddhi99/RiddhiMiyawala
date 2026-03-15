@@ -37,13 +37,20 @@ I believe in **learning by building projects, analyzing real datasets, and impro
 **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code, ChatGPT  
 
 
-
 ## 💻 Tech Stack
 
 <p align="left">
 
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+</a>
+
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
@@ -64,6 +71,14 @@ I believe in **learning by building projects, analyzing real datasets, and impro
 
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" />
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
